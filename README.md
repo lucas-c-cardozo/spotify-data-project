@@ -56,7 +56,3 @@ A análise dos dados permitiu confirmar ambas as hipóteses:
 **1.** Você pode entrar na pasta do arquivo .ipynb incluído neste repositório.
 **2.** Em seguida, já terá uma pré-visualização detalhada do projeto no próprio GitHub.
 **3.** Além disso, pode clicar na opção "Open in Colab", que levará diretamente ao notebook do projeto no Google Colab.
-
-1.  Clone este repositório:
-    ```bash
-    git clone
